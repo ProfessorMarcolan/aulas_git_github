@@ -1,3 +1,7 @@
+# Introdução
+
+Oi me chamo [João](http://lattes.cnpq.br/7073148309446855) e atualmente sou doutorando do Programa de Pós Graduação em Engenharia Elétrica da Universidade Federal de Santa Catarina. No meu tempo livre venho criando contéudo de acesso gratuito dos mais diferentes temas (e.g, git, python, c++) para comunidade da ciencia da educação, engenharias e afins. E realmente gostaria muito da sua ajuda para melhorar esses contéudos. Seja com a melhoria dos textos ou das imagens que são utilizadas nas aulas. Se você ajudar você ira também aprender, visto que, quem ensina tem uma absorção maior do conteúdo. Atualmente, eu posto os texto aqui editados em [meu site](professormarcolan.com.br) para um publíco que esteja precisando consumir. Muito do meu aprendizado em programação e em desenvolvimento de software veio da leitura e vizualização de aulas online e essa iniciativa é voltada a entregar de volta para a comunidade um pouco do que ela fez por mim.
+
 # Aula 0 
 
 A aula 0 é sobre como instalar o git no windowns. 
@@ -10,10 +14,18 @@ A aula um é sobre conceitos inicias do GIT. Nele para aprender como fazer o pri
 
 A aula 2 é para melhorar o entendimento sobre o GIT. Ver aonde ele está guaradando as coisas
 
-
 # Aula 3
 
 Como lidar com várias branchs. Como lidar com várias linhas do tempo.
+
+# Aula 4
+
+Como usar o [github](www.github.com)
+
+# Aula 5
+
+Como contribuir com as aulas gratuitas desenvolvidas pelo Professor Marcolan.
+
 
 
 # IMPORTANTE
@@ -24,8 +36,6 @@ Você pode contribuir com o conteudo do site.
 # Livros indicados e que fazem parte da bibliografia desse curso.
 
 Lista de alguns livros que são boa leituras.
-
-
 
 
 # Licença
