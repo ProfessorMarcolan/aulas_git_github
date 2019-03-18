@@ -2,18 +2,30 @@
 
 A aula 0 é sobre como instalar o git no windowns. 
 
-Ela está postada no link:
-
 # Aula 1
 
-A aula um é sobre conceitos inicias do GIT. Nele para aprender como fazer o primeiro commit
+A aula um é sobre conceitos inicias do GIT. Nele para aprender como fazer o primeiro commit e como fazer um repositório de trabalho
+
+# Aula 2
+
+A aula 2 é para melhorar o entendimento sobre o GIT. Ver aonde ele está guaradando as coisas
 
 
+# Aula 3
+
+Como lidar com várias branchs. Como lidar com várias linhas do tempo.
 
 
 # IMPORTANTE
 
 Você pode contribuir com o conteudo do site.
+
+
+# Livros indicados e que fazem parte da bibliografia desse curso.
+
+Lista de alguns livros que são boa leituras.
+
+
 
 
 # Licença
